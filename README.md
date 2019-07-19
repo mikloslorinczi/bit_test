@@ -1,7 +1,5 @@
 # bit_test
 Bitrise test repo
 
-This is a test line\
-And this is another\
-Gess wat\
-Another testline
+Testing testity test test test
+
